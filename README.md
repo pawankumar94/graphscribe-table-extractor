@@ -45,7 +45,7 @@ You can obtain a Google API key from the [Google AI Studio](https://ai.google.de
 Run the Streamlit app:
 
 ```bash
-python app.py
+streamlit run app.py
 ```
 
 This will start the Graphscribe web interface where you can:
