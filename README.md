@@ -12,6 +12,14 @@ Graphscribe is an intelligent, LLM-powered document understanding system designe
 - ReAct-based agent architecture for intelligent extraction
 - Web interface built with Streamlit for easy document processing
 
+## Architecture Blueprint
+
+![Architecture Blueprint](architecture_design/markdown_agent.gif)
+
+## Live Demo
+
+![Live Demo](architecture_design/markdown.gif)
+
 ## Setup
 
 1. **Install Dependencies:**
